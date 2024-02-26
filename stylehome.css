@@ -155,7 +155,7 @@ h1 {
 /* The footer is fixed to the bottom of the page */
 
 footer{
-	position: fixed;
+	position: absolute ;
 	bottom: 0;
 }
 
